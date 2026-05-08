@@ -11,6 +11,7 @@
     "bindings": {
       "ctrl-shift-e": "project_panel::Toggle",
       "ctrl-shift-a": "agent::Toggle",
+      "ctrl-shift-q": "multi_workspace::ToggleWorkspaceSidebar",
     },
   },
   {
@@ -18,6 +19,7 @@
     "bindings": {
       "ctrl-shift-e": "project_panel::Toggle",
       "ctrl-shift-a": "agent::Toggle",
+      "ctrl-shift-q": "multi_workspace::ToggleWorkspaceSidebar",
     },
   },
 ]
